@@ -1,5 +1,5 @@
 # 腾讯QQ技巧
 `腾讯` `QQ`<br>
-腾讯QQ的各种技巧
-<tab>暂无</tab>
+>QQ强制聊天
+>>暂无
 [我的博客](http://blog.csdn.net/guodongxiaren)
