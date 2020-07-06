@@ -6,9 +6,9 @@
 ```java
 http://wpa.qq.com/msgrd?v=3&uin=这里QQ号&site=qq&menu=yes
 ```
-- [ ] 待添加([演示](/))<br>
+- [ ] 访问QQ空间([演示](http://582963796.qzone.qq.com))<br>
 ```java
-待添加
+http://这里QQ号.qzone.qq.com
 ```
 - [ ] 待添加([演示](/))<br>
 ```java
