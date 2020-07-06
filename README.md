@@ -5,7 +5,8 @@
 - [x] QQ强制聊天([演示](http://wpa.qq.com/msgrd?v=3&uin=582963796&site=qq&menu=yes))<br>
 ```java
 http://wpa.qq.com/msgrd?v=3&uin=这里QQ号&site=qq&menu=yes
-```<br>
+```
+<br>
 - [ ] QQ强制聊天([演示](/))<br>
 ```java
 暂无链接
