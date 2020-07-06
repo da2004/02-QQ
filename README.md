@@ -6,11 +6,10 @@
 ```java
 http://wpa.qq.com/msgrd?v=3&uin=这里QQ号&site=qq&menu=yes
 ```
-<br>
 - [ ] QQ强制聊天([演示](/))<br>
 ```java
 暂无链接
-```<br>
+```
 >文中内容来自网络，侵删
 ***
 The End   [回到顶部](#readme)
